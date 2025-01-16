@@ -1,1 +1,5 @@
 opencv-python
+streamlit
+scikit-learn
+pandas
+numpy
