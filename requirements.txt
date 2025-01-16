@@ -1,4 +1,5 @@
 opencv-python-headless
+mediapipe
 streamlit
 scikit-learn
 pandas
