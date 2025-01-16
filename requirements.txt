@@ -1,4 +1,6 @@
 opencv-python-headless
+opencv2
+opencv-python
 mediapipe
 streamlit
 scikit-learn
