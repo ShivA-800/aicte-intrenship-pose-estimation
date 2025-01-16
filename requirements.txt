@@ -1,5 +1,5 @@
 opencv-python-headless
-opencv2
+cv2
 opencv-python
 mediapipe
 streamlit
